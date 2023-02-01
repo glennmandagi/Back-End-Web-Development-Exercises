@@ -16,6 +16,6 @@ switch($level){
         echo "Pelajari PHP";
         break;
     default:
-        echo "Kamu bukan programmer!"
+        echo "Kamu bukan programmer!";
 }
 ?>
